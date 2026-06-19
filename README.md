@@ -50,7 +50,7 @@ The following key offensive testing utilities were leveraged across the assessme
 The assessment followed a structured, 6-stage offensive security timeline to progress from network footprinting to domain-wide takeover.
 
 <p align="center">
-  <img src="watermarked_img_15900776283458645334.png" alt="Active Directory Attack Flow" width="100%">
+  <img src="lifecycle.png" alt="Active Directory Attack Flow" width="100%">
 </p>
 
 * **1. Reconnaissance (Nmap):** Identified open target ports and core infrastructure services (`88/Kerberos`, `389/LDAP`, `445/SMB`).
