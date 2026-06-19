@@ -42,7 +42,7 @@ The architecture utilizes virtualized isolation to safely replicate a corporate 
 The simulation followed a structured pipeline to systematically elevate privileges.
 
 <p align="center">
-  <img src="watermarked_img_15900776283458645334.png" alt="Refined Active Directory Attack Flow" width="100%">
+  <img src="Topology.png" alt="Refined Active Directory Attack Flow" width="100%">
 </p>
 
 * **1. Reconnaissance:** Discovered exposed critical services (`88/Kerberos`, `389/LDAP`, `445/SMB`).
