@@ -1,6 +1,6 @@
 # Active Directory Attack Simulation Lab
 
-![Active Directory Attack Simulation Lab](banner.jpg)
+![Active Directory Attack Simulation Lab](banner.png)
 
 ## 📌 Overview
 This repository documents the design, implementation, and analysis of an enterprise-grade **Active Directory (AD) Attack Simulation Lab**. The objective of this project was to construct a secure-by-default environment, intentionally introduce common misconfigurations, and execute an end-to-end cyber attack lifecycle—ranging from initial network reconnaissance to full Domain Admin compromise.
