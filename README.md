@@ -75,5 +75,4 @@ The assessment followed a structured, 6-stage offensive security timeline to pro
 
 <div align="justify">
 
-**Author:** AbdulRaheem | **Status:** Completed | **Environment:** Lab Simulation  
-</div>
+**Author:** AbdulRaheem
