@@ -34,4 +34,4 @@ Recon → SMB Enumeration → LDAP Enumeration → Credential Testing → BloodH
 See /screenshots folder
 
 ## Author
-Cybersecurity Practitioner (VAPT / AD Security Lab)
+AbdulRaheem
