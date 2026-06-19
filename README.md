@@ -38,7 +38,7 @@ The following key offensive testing utilities were leveraged across the assessme
 </p>
 
 * **Recon & Discovery:** `Nmap` for network enumeration and `Kerbrute` for user enumeration.
-* **AD Exploitation:** `NetExec`, `SMBClient`, and `Impacket` for protocol interaction and share enumeration.
+* **AD Exploitation:** `NetExec`.
 * **Path Analysis & Post-Ex:** `BloodHound` for relationship mapping and `CrackMapExec` for post-exploitation validation.
 </div>
 
