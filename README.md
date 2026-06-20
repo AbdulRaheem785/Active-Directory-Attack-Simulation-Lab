@@ -16,8 +16,6 @@
 </p>
 <div align="justify">
 
-# Active Directory Attack Simulation Lab
-
 <p align="center">
   <img src="banner.png" alt="Active Directory Attack Simulation Lab" width="100%">
 </p>
