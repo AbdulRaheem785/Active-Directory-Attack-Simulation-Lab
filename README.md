@@ -25,12 +25,13 @@ This repository documents the deployment and offensive security assessment of an
 </div>
 
 ---
+
+
+## 🛠️ Lab Specifications & Environment
 <p align="center">
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500">
 </p>
 <div align="justify">
-
-## 🛠️ Lab Specifications & Environment
 The deployment architecture utilizes virtualized isolation to replicate an enterprise environment, mapping a complete attack path from unauthenticated access up to Tier 0 assets.
 
 <p align="center">
