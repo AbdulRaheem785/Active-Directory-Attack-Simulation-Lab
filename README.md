@@ -25,7 +25,9 @@ This repository documents the deployment and offensive security assessment of an
 </div>
 
 ---
-
+<p align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500">
+</p>
 <div align="justify">
 
 ## 🛠️ Lab Specifications & Environment
