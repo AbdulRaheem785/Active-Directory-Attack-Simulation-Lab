@@ -1,4 +1,7 @@
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Active+Directory+Attack+Simulation+Lab;Domain+Enumeration+%7C+SMB+%7C+LDAP;BloodHound+Attack+Path+Analysis;Privilege+Escalation+to+Domain+Admin;Cybersecurity+Portfolio+Project" />
+</p>
+<p align="center">
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server-2022-0078D6?style=for-the-badge&logo=windows)
 ![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kalilinux)
