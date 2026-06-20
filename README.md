@@ -1,3 +1,16 @@
+<p align="center">
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-2022-0078D6?style=for-the-badge&logo=windows)
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kalilinux)
+![Active Directory](https://img.shields.io/badge/Active_Directory-Lab-0A66C2?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-Network_Enumeration-4682B4?style=for-the-badge)
+![NetExec](https://img.shields.io/badge/NetExec-SMB_&_LDAP-darkgreen?style=for-the-badge)
+![BloodHound](https://img.shields.io/badge/BloodHound-Attack_Path_Analysis-red?style=for-the-badge)
+![Privilege Escalation](https://img.shields.io/badge/Privilege_Escalation-Domain_Admin-success?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
+</p>
 <div align="justify">
 
 # Active Directory Attack Simulation Lab
