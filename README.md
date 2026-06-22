@@ -1,4 +1,7 @@
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=AbdulRaheem785&label=Repository+Views&color=blue&style=for-the-badge">
+</p>
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Active+Directory+Attack+Simulation+Lab;Domain+Enumeration+%7C+SMB+%7C+LDAP;BloodHound+Attack+Path+Analysis;Privilege+Escalation+to+Domain+Admin;Cybersecurity+Portfolio+Project" />
 </p>
 <p align="center">
